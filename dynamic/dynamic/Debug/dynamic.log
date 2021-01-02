@@ -1,0 +1,8 @@
+﻿  dynamic.cpp
+d:\visualstudioproject\re_cpp\dynamic\dynamic\dynamic\dynamic.cpp(9): warning C4018: “<”: 有符号/无符号不匹配
+d:\visualstudioproject\re_cpp\dynamic\dynamic\dynamic\dynamic.cpp(20): warning C4018: “<”: 有符号/无符号不匹配
+d:\visualstudioproject\re_cpp\dynamic\dynamic\dynamic\dynamic.cpp(28): warning C4018: “<”: 有符号/无符号不匹配
+d:\visualstudioproject\re_cpp\dynamic\dynamic\dynamic\dynamic.cpp(35): warning C4018: “<”: 有符号/无符号不匹配
+d:\visualstudioproject\re_cpp\dynamic\dynamic\dynamic\dynamic.cpp(39): warning C4018: “<”: 有符号/无符号不匹配
+  dynamic.vcxproj -> D:\visualStudioProject\re_cpp\dynamic\dynamic\Debug\dynamic.exe
+  dynamic.vcxproj -> D:\visualStudioProject\re_cpp\dynamic\dynamic\Debug\dynamic.pdb (Full PDB)
